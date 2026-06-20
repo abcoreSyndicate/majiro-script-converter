@@ -66,10 +66,10 @@ write_mjo("script_ja.mjo", new_mjo)
 Choose your language:
 
 - 🇬🇧 **English** — [README.md](README.md) (this file)
-- 🇷🇺 **Русский** — [docs/README.ru.md](docs/README.ru.md)
-- 🇯🇵 **日本語** — [docs/README.ja.md](docs/README.ja.md)
+- 🇷🇺 **Русский** — [docs/README.ru.md](README.ru.md)
+- 🇯🇵 **日本語** — [docs/README.ja.md](README.ja.md)
 
-Detailed format specification: [docs/FORMAT.md](docs/FORMAT.md)
+Detailed format specification: [docs/FORMAT.md](FORMAT.md)
 
 ## 🧪 Running Tests
 
@@ -175,5 +175,5 @@ This tool is intended for educational purposes, translation projects, and moddin
 ## 🌐 Languages
 
 - [English](README.md)
-- [Русский](docs/README.ru.md)
-- [日本語](docs/README.ja.md)
+- [Русский](README.ru.md)
+- [日本語](README.ja.md)
