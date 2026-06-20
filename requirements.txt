@@ -1,0 +1,6 @@
+# Majiro Script Converter has no external dependencies.
+# Only Python 3.7+ is required.
+#
+# This file is kept for documentation purposes only.
+# You can install requirements with:
+#     pip install -r requirements.txt
