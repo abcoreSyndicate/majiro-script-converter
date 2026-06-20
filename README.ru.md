@@ -65,7 +65,7 @@ write_mjo("script_ru.mjo", new_mjo)
 
 Выберите язык:
 
-- 🇬🇧 **English** — [README.md](../README.md)
+- 🇬🇧 **English** — [README.md](README.md)
 - 🇷🇺 **Русский** — [README.ru.md](README.ru.md) (этот файл)
 - 🇯🇵 **日本語** — [README.ja.md](README.ja.md)
 
@@ -174,6 +174,6 @@ majiro-script-converter/
 
 ## 🌐 Языки
 
-- [English](../README.md)
+- [English](README.md)
 - [Русский](README.ru.md)
 - [日本語](README.ja.md)
